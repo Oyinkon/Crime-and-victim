@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Crime Pattern & Victim Profile Dashboard
 
 This Power BI dashboard visualizes and analyzes patterns in reported crime incidents with a focus on victim demographics, including **age group**, **gender**, **race**, **location**, and **time (year/month)**.
-
+https://github.com/Oyinkon/Crime-and-victim/blob/main/crime.pbix
 
 
 ## 📌 Overview
@@ -24,7 +24,7 @@ This data-driven tool can be used by law enforcement, policymakers, public safet
 - **Crime Type**
 - **Year**
 - **Month**
-- **State **
+- **State**
 - **Victim Race** 
 ### 📈 Visualizations
 
